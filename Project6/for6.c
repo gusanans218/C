@@ -1,0 +1,37 @@
+//ÁßÃ¸ for¹®
+#include <stdio.h>
+int main()
+{
+	int i, j, n;
+	//	 for (i = 1; i <= 3; i++) //3¹ø¹Ýº¹
+	//		{
+	//		 for(j=1; j<=i; j++) //*Âï±â¸¦ 5¹ø ¹Ýº¹
+	//			 printf("*");
+	//			 printf("\n"); //ÁÙ¹Ù²ã
+	//}
+	//	 }
+	//for (i = 1; i <= 3; i++) //3¹ø¹Ýº¹
+	//{
+	//	for (j = 1; j <=4-i; j++) //*Âï±â¸¦ 5¹ø ¹Ýº¹
+	//		printf("*");
+	//	printf("\n"); //ÁÙ¹Ù²ã
+	//}
+	//	 }
+	printf("È¦¼öÁÙ ÀÔ·Â : ");
+	scanf("%d", &n);
+	for (i = 1; i <= n; i++)
+	{
+		if (i <= n/2 +1)
+		{
+			for (j = 1; j <=i; j++)
+				printf(" *");
+		}
+		else
+		{
+			for (j = 1; j <= n-i+1; j++)
+				printf(" *");
+		}
+		printf("\n");
+	}
+
+} 

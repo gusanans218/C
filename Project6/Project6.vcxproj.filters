@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\조건문">
+      <UniqueIdentifier>{05b7e88b-72b6-42c3-991f-dd237ce3fcf5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\반복문">
+      <UniqueIdentifier>{db51d272-218d-47ae-a188-657b358872cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\배열">
+      <UniqueIdentifier>{6481a97c-e409-4fe4-8cdb-6b0e97488027}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\연산자">
+      <UniqueIdentifier>{17c52664-87b5-4b91-bae9-11d022df29b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\test1">
+      <UniqueIdentifier>{6f722a6e-52e4-4b1c-b9fe-769ca9408e75}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="소스.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="scanf 2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="swap.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="if.c">
+      <Filter>소스 파일\조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="if2.c">
+      <Filter>소스 파일\조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="if3.c">
+      <Filter>소스 파일\조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="if4.c">
+      <Filter>소스 파일\조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="if5.c">
+      <Filter>소스 파일\조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="switch1.c">
+      <Filter>소스 파일\조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="switch2.c">
+      <Filter>소스 파일\조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="switch3.c">
+      <Filter>소스 파일\조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="switch4.c">
+      <Filter>소스 파일\조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="switch5.c">
+      <Filter>소스 파일\조건문</Filter>
+    </ClCompile>
+    <ClCompile Include="for1.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="for2.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="for3.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="while1.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="while2.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="while3.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="for4.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="for5.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="for6.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="for7.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="for8.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="for9.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="for10.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="for11.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="for12.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="test1.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="test6.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="test2.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="test3.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="test4.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="test5.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="test7.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="test8.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="test9.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="test10.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="test12.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="test11.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="test13.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="array1.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="array2.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="array3.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="0516.c">
+      <Filter>소스 파일\반복문</Filter>
+    </ClCompile>
+    <ClCompile Include="array4.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="array5.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="array6.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="sort1.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="sort2.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="array7.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="array8.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="array9.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="array10.c">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="op1.c">
+      <Filter>소스 파일\연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="op2.c">
+      <Filter>소스 파일\연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="op3.c">
+      <Filter>소스 파일\연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="op4.c">
+      <Filter>소스 파일\연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="op5.c">
+      <Filter>소스 파일\연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="op6.c">
+      <Filter>소스 파일\연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="op7.c">
+      <Filter>소스 파일\연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="op8.c">
+      <Filter>소스 파일\연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="op10.c">
+      <Filter>소스 파일\연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="testb1.c">
+      <Filter>소스 파일\test1</Filter>
+    </ClCompile>
+    <ClCompile Include="ex1.c">
+      <Filter>소스 파일\test1</Filter>
+    </ClCompile>
+    <ClCompile Include="op11.c">
+      <Filter>소스 파일\연산자</Filter>
+    </ClCompile>
+    <ClCompile Include="op12.c">
+      <Filter>소스 파일\연산자</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
